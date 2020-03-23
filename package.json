@@ -11,5 +11,9 @@
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^3.10.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:celsofilho82/time_to_answer.git",
+  "author": "Celso Ribeiro <celsofilho82@gmail.com>",
+  "license": "MIT"
 }
